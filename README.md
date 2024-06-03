@@ -1,4 +1,4 @@
-Optimization to find non-linear optical circuits preparing target GKP states.
+Optimization to find non-linear optical circuits preparing target Gottesman-Kitaev-Preskill states.
 
 The notebook "GKP states from vacuum.ipynb" contains commented code using a truncated Fock representation to optimize circuits of displacements, squeezers and Kerr gates so as to maximize the fidelity of the output with a target (single-mode) GKP state. The input is the vacuum state.
 
